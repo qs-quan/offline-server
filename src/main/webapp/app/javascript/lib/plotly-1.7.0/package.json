@@ -82,7 +82,7 @@
     "brfs": "^1.4.3",
     "browserify": "^13.0.0",
     "browserify-transform-tools": "^1.5.1",
-    "ecstatic": "^1.4.0",
+    "ecstatic": "^4.1.2",
     "eslint": "^2.1.0",
     "falafel": "^1.2.0",
     "glob": "^7.0.0",
