@@ -1,0 +1,51 @@
+{
+  "message": null,
+  "success": true,
+  "totalProperty": 2,
+  "results": [
+    {
+      "fileid": null,
+      "isref": 1,
+      "datatypeId": "49",
+      "isArray": false,
+      "createtime": 1467794843000,
+      "updateStatus": null,
+      "datasubname": "333",
+      "datatype": "字符串",
+      "ordernumber": 131,
+      "isnewest": 1,
+      "subtypecode": "1467794843578",
+      "userid": null,
+      "showname": "字符串",
+      "unit": null,
+      "delistJson": null,
+      "value": null,
+      "id": "93",
+      "version": 2,
+      "dimension": "1",
+      "status": 2
+    },
+    {
+      "fileid": null,
+      "isref": 1,
+      "datatypeId": "49",
+      "isArray": false,
+      "createtime": 1467794843000,
+      "updateStatus": null,
+      "datasubname": "222",
+      "datatype": "字符串",
+      "ordernumber": 132,
+      "isnewest": 1,
+      "subtypecode": "1467794843578",
+      "userid": null,
+      "showname": "字符串",
+      "unit": null,
+      "delistJson": null,
+      "value": null,
+      "id": "94",
+      "version": 2,
+      "dimension": "1",
+      "status": 2
+    }
+  ]
+}

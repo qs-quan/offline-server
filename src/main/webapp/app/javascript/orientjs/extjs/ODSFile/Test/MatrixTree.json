@@ -1,0 +1,16 @@
+{
+
+
+    "children":[{
+      "expanded":true,"rowcount":"167","AA":"3","thumb":"matrix.png",
+      "children":[
+        {"expanded":false,"rowcount":"","colcount":"","thumb":"col.png","name":"LS.Right Side","id":"39","leaf":true,"type":"localColumn"},
+        {"expanded":false,"rowcount":"","colcount":"","thumb":"col.png","name":"Time","id":"45","leaf":true,"type":"localColumn"},
+        {"expanded":false,"rowcount":"","colcount":"","thumb":"col.png","name":"LS.Left Side","id":"47","leaf":true,"type":"localColumn"}
+      ],
+      "name":"Detector;rms A fast(Zusammenfassung)","id":"33","leaf":false,"type":"subMatrix"}
+    ],
+    "name":"."
+
+
+}

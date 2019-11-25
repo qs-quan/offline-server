@@ -1,0 +1,51 @@
+{
+  "message": null,
+  "success": true,
+  "totalProperty": 2,
+  "results": [
+    {
+      "fileid": null,
+      "isref": 1,
+      "datatypeId": "43",
+      "isArray": false,
+      "createtime": null,
+      "updateStatus": null,
+      "datasubname": "体积Sub1",
+      "datatype": "整数",
+      "ordernumber": 122,
+      "isnewest": 1,
+      "subtypecode": "1467289653031",
+      "userid": null,
+      "showname": "整数",
+      "unit": null,
+      "delistJson": null,
+      "value": null,
+      "id": "91",
+      "version": 9,
+      "dimension": "1",
+      "status": 2
+    },
+    {
+      "fileid": null,
+      "isref": 8,
+      "datatypeId": "43",
+      "isArray": false,
+      "createtime": 1467291124000,
+      "updateStatus": null,
+      "datasubname": "体积Sub2",
+      "datatype": "新建物理类型",
+      "ordernumber": 123,
+      "isnewest": 1,
+      "subtypecode": "1467291124718",
+      "userid": null,
+      "showname": "新建物理类型",
+      "unit": null,
+      "delistJson": null,
+      "value": null,
+      "id": "92",
+      "version": 9,
+      "dimension": "1",
+      "status": 2
+    }
+  ]
+}

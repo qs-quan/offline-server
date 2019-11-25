@@ -1,0 +1,14 @@
+---------------知识管理结构-----------------
+
+1、全文检索  （fullText）
+
+2、知识管理  （knowleadgeManage）
+		-- 评论（comment）
+	    -- 词条（diction）
+	    -- 文档（file）
+3、知识库管理（knowleadgeBaseManage）
+	    -- 知识库（knowledgeBase）
+	    -- 目录树（directoryTree）
+4、知识统计  （knowleadgeCount）
+	    -- 词条统计（dictionCount）
+	    -- 文档统计（fileCount）

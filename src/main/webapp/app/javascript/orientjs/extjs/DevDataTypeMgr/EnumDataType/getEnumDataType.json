@@ -1,0 +1,32 @@
+{
+  "message": null,
+  "success": true,
+  "totalProperty": 1,
+  "results": [
+    {
+      "iconCls": null,
+      "dataTypeId": null,
+      "id": "48",
+      "text": null,
+      "leaf": false,
+      "node": null,
+      "start": null,
+      "username": "guest1",
+      "limit": null,
+      "createtime": 1467789722000,
+      "updateStatus": null,
+      "datatype": "字符串",
+      "isnewest": 1,
+      "datatypename": "xxx",
+      "datatypecode": "1467789722984",
+      "userid": "2",
+      "checkstr": null,
+      "delistJson": null,
+      "rank": 4,
+      "version": 1,
+      "icon": null,
+      "description": null,
+      "status": 2
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "text": ".",
+  "children": [
+    {
+      "text": "基础类型",
+      "tag": "basetype",
+      "leaf": false,
+      "expanded": true,
+      "children": [
+        {
+          "dataTypeId": "1",
+          "leaf": true,
+          "isref": 1,
+          "iconCls": "icon_basicType",
+          "datatype":"string",
+          "text": "字符串"
+        },
+        {
+          "dataTypeId": "2",
+          "iconCls": "icon_basicType",
+          "leaf": true,
+          "isref": 1,
+          "datatype":"integer",
+          "text": "整数"
+        },
+        {
+          "dataTypeId": "6",
+          "iconCls": "icon_basicType",
+          "leaf": true,
+          "isref": 1,
+          "datatype":"date",
+          "text": "日期"
+        },
+        {
+          "dataTypeId": "4",
+          "iconCls": "icon_basicType",
+          "leaf": true,
+          "isref": 1,
+          "datatype":"double",
+          "text": "实数"
+        },
+        {
+          "dataTypeId": "5",
+          "iconCls": "icon_basicType",
+          "leaf": true,
+          "isref": 1,
+          "datatype":"file",
+          "text": "文件"
+        },
+        {
+          "dataTypeId": "3",
+          "iconCls": "icon_basicType",
+          "leaf": true,
+          "isref": 1,
+          "datatype":"boolean",
+          "text": "布尔"
+        }
+      ]
+    },
+    {
+      "text": "复杂类型",
+      "tag": "physicstype",
+      "leaf": false,
+      "expanded": true,
+      "children": [
+        {
+
+          "dataTypeId": "43",
+          "iconCls": "icon_physicalType",
+          "leaf": true,
+          "isref": 8,
+          "datatype":"string",
+          "text": "体积"
+        },
+        {
+          "dataTypeId": "32",
+          "iconCls": "icon_physicalType",
+          "datatype":"string",
+          "isref": 8,
+          "leaf": true,
+          "text": "x"
+        },
+        {
+          "dataTypeId": "35",
+          "iconCls": "icon_physicalType",
+          "datatype":"string",
+          "isref": 8,
+          "leaf": true,
+          "text": "新建物理类型"
+        }
+      ]
+    },
+    {
+      "text": "枚举类型",
+      "tag": "enumtype",
+      "leaf": false,
+      "expanded": true,
+      "children": [
+        {
+          "dataTypeId": "281",
+          "isref": 16,
+          "iconCls": "icon_enumerationType",
+          "datatype":"string",
+          "leaf": true,
+          "text": "xxx"
+        }
+      ]
+    },
+    {
+      "text": "扩展类型",
+      "tag": "extendtype",
+      "leaf": false,
+      "expanded": true,
+      "children": [
+        {
+          "dataTypeId": "45",
+          "iconCls": "icon_extendedType",
+          "isref": 32,
+          "datatype":"string",
+          "leaf": true,
+          "text": "Ex1"
+        },
+        {
+          "dataTypeId": "47",
+          "iconCls": "icon_extendedType",
+          "datatype":"file",
+          "isref": 32,
+          "leaf": true,
+          "text": "一级审批流程"
+        }
+      ]
+    }
+  ]
+}

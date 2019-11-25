@@ -1,0 +1,91 @@
+{
+  "message": null,
+  "success": true,
+  "totalProperty": 6,
+  "results": [
+    {
+      "id": "1",
+      "creater": "潘端端",
+      "createtime": null,
+      "datatype": "string",
+      "isnewest": 1,
+      "checkstr": null,
+      "rank": 1,
+      "version": 1,
+      "icon": null,
+      "description": "字符串",
+      "datatypename": "字符串",
+      "status": 2
+    },
+    {
+      "id": "2",
+      "creater": "潘端端",
+      "createtime": null,
+      "datatype": "integer",
+      "isnewest": 1,
+      "checkstr": null,
+      "rank": 1,
+      "version": 1,
+      "icon": null,
+      "description": "整数",
+      "datatypename": "整数",
+      "status": 2
+    },
+    {
+      "id": "3",
+      "creater": "潘端端",
+      "createtime": null,
+      "datatype": "boolean",
+      "isnewest": 1,
+      "checkstr": null,
+      "rank": 1,
+      "version": 1,
+      "icon": null,
+      "description": "布尔",
+      "datatypename": "布尔",
+      "status": 2
+    },
+    {
+      "id": "4",
+      "creater": "潘端端",
+      "createtime": null,
+      "datatype": "double",
+      "isnewest": 1,
+      "checkstr": null,
+      "rank": 1,
+      "version": 1,
+      "icon": null,
+      "description": "实数",
+      "datatypename": "实数",
+      "status": 2
+    },
+    {
+      "id": "5",
+      "creater": "潘端端",
+      "createtime": null,
+      "datatype": "file",
+      "isnewest": 1,
+      "checkstr": null,
+      "rank": 1,
+      "version": 1,
+      "icon": null,
+      "description": "文件",
+      "datatypename": "文件",
+      "status": 2
+    },
+    {
+      "id": "6",
+      "creater": "潘端端",
+      "createtime": null,
+      "datatype": "date",
+      "isnewest": 1,
+      "checkstr": null,
+      "rank": 1,
+      "version": 1,
+      "icon": null,
+      "description": "日期",
+      "datatypename": "日期",
+      "status": 2
+    }
+  ]
+}

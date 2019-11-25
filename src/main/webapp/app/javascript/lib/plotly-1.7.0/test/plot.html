@@ -1,0 +1,64 @@
+
+<html>
+<header>
+<!-- this index file gets copied in to the image server docker -->
+<script type="text/javascript" src="../dist/plotly.js" charset="utf-8"></script>
+
+    </header>
+<body>
+
+<div id="tester" name = 'test' ></div>
+<input type="button" onclick="Add()" value="add data">
+</body>
+<script>
+    var TESTER = document.getElementById('tester');
+    var xArray = new Array();
+    var yArray = new Array();
+    for (var i = 0 ; i < 1000;i++){
+        xArray.push(i);
+        yArray.push(i*2);
+    }
+//    Plotly.plot( TESTER, [{
+//        x: xArray,
+//        y: yArray ,
+//        type: 'scatter'}], {
+//        margin: { t: 0 } } );
+
+
+    var data = [{
+        x: xArray,
+        y: yArray ,
+        type: 'scatter'
+    }];
+
+    var layout = {
+        xaxis: {
+            autorange: true
+        },
+        yaxis: {
+
+            autorange: true
+        }
+    };
+
+    var config = {
+        modeBarButtonsToRemove:['toImage','sendDataToCloud'],
+        displaylogo:false
+    }
+
+    Plotly.newPlot('tester', data, layout,config);
+
+    function Add(){
+        var traces = {
+
+            x: [0,1,1000],
+            y: [5,5,5] ,
+            type: 'scatter'
+
+        }
+
+        Plotly.addTraces('tester', traces,1);
+    }
+</script>
+
+</html>

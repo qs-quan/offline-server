@@ -1,0 +1,798 @@
+/*默认图标*/
+.icon-default {
+    background-image: url(../../images/orient.ico) !important;
+}
+
+.icon-basicInfo {
+    background-image: url(../../images/icons/default/common/baseInfo.png) !important;
+}
+
+/*通用图标 begin*/
+/*新增*/
+.icon-create {
+    background-image: url(../../images/icons/default/common/create.png) !important;
+}
+
+/*
+添加
+["add icon](https://www.iconfont.cn/search/index?searchType=icon&q=add)
+*/
+.icon-Add {
+    background-image: url(../../images/icons/default/common/Add.png) !important;
+}
+
+/*
+复制
+["copy" icon](https://www.iconfont.cn/search/index?searchType=icon&q=copy&page=1)
+*/
+.icon-copy {
+    background-image: url(../../images/icons/default/common/copy.png) !important;
+}
+
+/*修改*/
+.icon-update {
+    background-image: url(../../images/icons/default/common/update.png) !important;
+}
+
+/*查询*/
+.icon-search {
+    background-image: url(../../images/icons/default/common/query.png) !important;
+}
+
+/*删除*/
+.icon-delete {
+    background-image: url(../../images/icons/default/common/delete.png) !important;
+}
+
+/*级联删除*/
+.icon-deleteCascade {
+    background-image: url(../../images/icons/default/common/deleteCascade.png) !important;
+}
+
+/*详细*/
+.icon-detail {
+    background-image: url(../../images/icons/default/common/detail.png) !important;
+}
+
+/*保存*/
+.icon-save {
+    background-image: url(../../images/icons/default/common/save.png) !important;
+}
+
+/*保存并关闭*/
+.icon-saveAndClose {
+    background-image: url(../../images/icons/default/common/saveAndClose.png) !important;
+}
+
+/*关闭*/
+.icon-close {
+    background-image: url(../../images/icons/default/common/close.png) !important;
+}
+
+/*刷新*/
+.icon-refresh {
+    background-image: url(../../images/icons/default/common/refresh.png) !important;
+}
+
+/*查询*/
+.icon-query {
+    background-image: url(../../images/icons/default/common/query.png) !important;
+}
+
+/*查询全部*/
+.icon-queryAll {
+    background-image: url(../../images/icons/default/common/queryAll.png) !important;
+}
+
+/*附件*/
+.icon-attach {
+    background-image: url(../../images/icons/default/common/attachment.png) !important;
+}
+
+/*单条记录保存*/
+.icon-saveSingle {
+    background-image: url(../../images/icons/default/common/save.png) !important;
+}
+
+/*返回*/
+.icon-back {
+    background-image: url(../../images/icons/default/common/back.png) !important;
+}
+
+/*导出*/
+.icon-export {
+    background-image: url(../../images/icons/default/common/export.png) !important;
+}
+
+/*导入*/
+.icon-import {
+    background-image: url(../../images/icons/default/common/import.png) !important;
+}
+
+/*启动审批流程*/
+.icon-startFlow {
+    background-image: url(../../images/icons/default/common/startFlow.png) !important;
+}
+
+/*查看审批流程详细*/
+.icon-detailFlow {
+    background-image: url(../../images/icons/default/common/detailFlow.png) !important;
+}
+
+/*关闭审批流程*/
+.icon-closeFlow {
+    background-image: url(../../images/icons/default/common/endFlow.png) !important;
+}
+
+/*暂停流程*/
+.icon-suspendAuditFlow {
+    background-image: url(../../images/icons/default/common/suspendFlow.png) !important;
+}
+
+/*恢复流程*/
+.icon-resumeAuditFlow {
+    background-image: url(../../images/icons/default/common/resumeFlow.png) !important;
+}
+
+/*上移*/
+.icon-up {
+    background-image: url(../../images/icons/default/common/up.png) !important;
+}
+
+/*下移*/
+.icon-down {
+    background-image: url(../../images/icons/default/common/down.png) !important;
+}
+
+/*左移*/
+.icon-left {
+    background-image: url(../../images/icons/default/common/left.png) !important;
+}
+
+/*右移*/
+.icon-right {
+    background-image: url(../../images/icons/default/common/right.png) !important;
+}
+
+.icon-allright {
+    background-image: url(../../images/itemselect/allright.png) !important;
+}
+
+.icon-allleft {
+    background-image: url(../../images/itemselect/allleft.png) !important;
+}
+
+/*上一个*/
+.icon-prev {
+    background-image: url(../../images/icons/default/common/prev.png) !important;
+}
+
+/*下一个*/
+.icon-next {
+    background-image: url(../../images/icons/default/common/next.png) !important;
+}
+
+/*清空*/
+.icon-clear {
+    background-image: url(../../images/icons/default/common/clear.png) !important;
+}
+
+/**关闭*/
+.icon-close {
+    background-image: url(../../images/icons/default/common/close.png) !important;
+}
+
+/**模板下载*/
+.icon-DownloadBtn {
+    background-image: url(../../images/icons/default/common/download.png) !important;
+}
+
+/**模板导入*/
+.icon-ImportBtn {
+    background-image: url(../../images/icons/default/common/import.png) !important;
+}
+
+/**标记*/
+.icon-mark {
+    background-image: url(../../images/icons/default/common/mark.png) !important;
+}
+
+/**增加计量*/
+.icon-addCalcBtn {
+    background-image: url(../../images/icons/default/common/create.png) !important;
+}
+
+/*通用图标 end*/
+
+/*附件图标 begin*/
+.upload-add {
+    background-image: url(../../images/icons/default/upload/add.gif) !important;
+}
+
+/*删除附件*/
+.upload-delete {
+    background-image: url(../../images/icons/default/upload/delete.gif) !important;
+}
+
+/*上移附件*/
+.upload-up {
+    background-image: url(../../images/icons/default/upload/up.gif) !important;
+}
+
+/*删除附件*/
+.upload-trash {
+    background-image: url(../../images/icons/default/upload/trash.gif) !important;
+}
+
+/*取消上传*/
+.upload-cancel {
+    background-image: url(../../images/icons/default/upload/cancel.gif) !important;
+}
+
+/*预览附件*/
+.icon-preview {
+    background-image: url(../../images/icons/default/upload/preview.png) !important;
+}
+
+.icon-upload {
+    background-image: url(../../images/icons/default/upload/upload.png) !important;
+}
+
+/*附件图标 end*/
+
+/*功能点图标 begin*/
+.icon-function {
+    background-size: 16px 16px;
+}
+
+.icon-function-64 {
+    background-size: 64px 64px;
+}
+
+/*功能点图标 end*/
+
+/*协同相关 begin*/
+/*项目文件夹*/
+.icon-CB_DIR {
+    background-image: url(../../images/icons/default/collab/dir.png) !important;
+}
+
+/*项目*/
+.icon-CB_PROJECT {
+    background-image: url(../../images/icons/default/collab/project.png) !important;
+}
+
+/*计划*/
+.icon-CB_PLAN {
+    background-image: url(../../images/icons/default/collab/plan.png) !important;
+}
+
+/*任务*/
+.icon-CB_TASK {
+    background-image: url(../../images/icons/default/collab/task.png) !important;
+}
+
+/**人员设置*/
+.icon-assignPerson {
+    background-image: url(../../images/icons/default/collab/assign.png) !important;
+}
+
+/**人员*/
+.icon-PEOPLE {
+    background-image: url(../../images/icons/default/collab/assigner.png) !important;
+}
+
+.icon-setbaseline {
+    background: url(../../images/icons/default/collab/setBaseLine.png) no-repeat left center !important;
+}
+
+.icon-editbaseline {
+    background: url(../../images/icons/default/collab/editBaseLine.png) no-repeat left center !important;
+}
+
+.icon-baselineAuditStatus {
+    background: url(../../images/icons/default/common/detailFlow.png) no-repeat left center !important;
+}
+
+.icon-startproject {
+    background: url(../../images/icons/default/collab/startPrj.png) no-repeat left center !important;
+}
+
+.icon-submitproject {
+    background: url(../../images/icons/default/collab/submitPrj.png) no-repeat left center !important;
+}
+
+.icon-createfolder {
+    background-image: url(../../images/icons/default/collab/createFolder.png) !important;
+}
+
+.icon-createproject {
+    background-image: url(../../images/icons/default/collab/createPrj.png) !important;
+}
+
+.icon-createbyhand {
+    background-image: url(../../images/icons/default/collab/createTask.png) !important;
+}
+
+.icon-createbyimport {
+    background-image: url(../../images/icons/default/collab/createFromTemplate.png) !important;
+}
+
+.icon-taskwbs {
+    background-image: url(../../images/icons/default/collab/planBreak.png) !important;
+}
+
+.icon-exporttemplate {
+    background-image: url(../../images/icons/default/collab/exportTemplate.png) !important;
+}
+
+/*任务处理*/
+.icon-taskprocess {
+    background-image: url(../../images/icons/default/collab/taskHandler.png) !important;
+}
+
+.icon-boolean {
+    background: url(../../images/icons/default/collab/boolean.png) no-repeat left center !important;
+}
+
+.icon-file {
+    background: url(../../images/icons/default/collab/file.png) no-repeat left center !important;
+}
+
+.icon-double {
+    background: url(../../images/icons/default/collab/double.png) no-repeat left center !important;
+}
+
+.icon-integer {
+    background: url(../../images/icons/default/collab/integer.png) no-repeat left center !important;
+}
+
+.icon-date {
+    background: url(../../images/icons/default/collab/date.png) no-repeat left center !important;
+}
+
+.icon-string {
+    background: url(../../images/icons/default/collab/string.png) no-repeat left center !important;
+}
+
+.icon-submitData {
+    background: url(../../images/icons/default/collab/submitData.png) no-repeat left center !important;
+}
+
+.icon-MILESTONE {
+    background: url(../../images/icons/default/collab/leader.png) no-repeat left center !important;
+}
+
+.icon-NORMAL {
+    background: url(../../images/icons/default/collab/param.png) no-repeat left center !important;
+}
+
+.icon-GROUP {
+    background: url(../../images/icons/default/collab/team.png) no-repeat left center !important;
+}
+
+.icon-startCollabFlow {
+    background-image: url(../../images/icons/default/collab/starFlow.png) !important;
+}
+
+.icon-stopFlow {
+    background-image: url(../../images/icons/default/collab/closeFlow.png) !important;
+}
+
+.icon-suspendFlow {
+    background-image: url(../../images/icons/default/collab/suspend.png) !important;
+}
+
+.icon-resumeFlow {
+    background-image: url(../../images/icons/default/collab/resume.png) !important;
+}
+
+.icon-workGroup {
+    background-image: url(../../images/icons/default/collab/workGroup.png) !important;
+}
+
+.icon-gantt {
+    background-image: url(../../images/icons/default/collab/gantt.png) !important;
+}
+
+.icon-flow {
+    background-image: url(../../images/icons/default/collab/controlFlow.png) !important;
+}
+
+.icon-designdata {
+    background-image: url(../../images/icons/default/collab/designData.png) !important;
+}
+
+.icon-dataflow {
+    background-image: url(../../images/icons/default/collab/dataFlow.png) !important;
+}
+
+.icon-offlinedata {
+    background-image: url(../../images/icons/default/collab/offlinedata.png) !important;
+}
+
+.icon-autoLayout {
+    background-image: url(../../images/icons/default/collab/autoLayout.png) !important;
+}
+
+.icon-baseinfo {
+    background-image: url(../../images/icons/default/collab/basicInfo.png) !important;
+}
+
+.icon-currentTask {
+    background-image: url(../../images/icons/default/collab/currentTask.png) !important;
+}
+
+.icon-planTask {
+    background-image: url(../../images/icons/default/collab/planTask.png) !important;
+}
+
+.icon-collabTask {
+    background-image: url(../../images/icons/default/collab/collabTask.png) !important;
+}
+
+.icon-auditTask {
+    background-image: url(../../images/icons/default/collab/auditTask.png) !important;
+}
+
+.icon-dataTask {
+    background-image: url(../../images/icons/default/collab/dataTask.png) !important;
+}
+
+.icon-hisTask {
+    background-image: url(../../images/icons/default/collab/hisTask.png) !important;
+}
+
+.icon-share {
+    background-image: url(../../images/icons/default/collab/share.png) !important;
+}
+
+.icon-cancleShare {
+    background-image: url(../../images/icons/default/collab/cancleShare.png) !important;
+}
+
+.icon-setSignRole {
+    background-image: url(../../images/icons/default/collab/setSignRole.png) !important;
+}
+
+.icon-saveEdit {
+    background-image: url(../../images/icons/default/collab/saveEdit.png) !important;
+}
+
+.icon-reEdit {
+    background-image: url(../../images/icons/default/collab/reEdit.png) !important;
+}
+
+.icon-takeTask {
+    background-image: url(../../images/icons/default/collab/takeTask.png) !important;
+}
+
+.icon-flowDesigner {
+    background-image: url(../../images/icons/default/collab/startFlowDesigner.png) !important;
+}
+
+.icon-measurement {
+    background-image: url(../../images/icons/default/collab/measurement.png) !important;
+}
+/*协同相关 end*/
+
+/*数据管理 begin*/
+/*列头设置*/
+.icon-headSetting {
+    background-image: url(../../images/icons/default/modeldata/headSetting.png) !important;
+}
+
+/*导入模型数据*/
+.icon-impoortModelData {
+    background-image: url(../../images/icons/default/common/upload.png) !important;
+}
+
+/*数据节点*/
+.icon-data-node {
+    background-image: url(../../images/icons/default/collab/basicInfo.png) !important;
+}
+
+/*文件夹节点*/
+.icon-dir-node {
+    background-image: url(../../images/icons/default/collab/dir.png) !important;
+}
+
+/*文件列表关系节点*/
+.icon-list-relation-node{
+    background-image: url(../../images/icons/default/modeldata/detailDynamicColumn.png) !important;
+}
+
+/*关系节点*/
+.icon-relation-node{
+    background-image: url(../../images/icons/default/modeldata/defaultNode.png) !important;
+}
+
+/*schema*/
+.icon-schema {
+    background-image: url(../../images/icons/default/modeldata/schema.png) !important;
+}
+
+/*模型分组*/
+.icon-modelGroup {
+    background-image: url(../../images/icons/default/modeldata/modelGroup.png) !important;
+}
+
+/*视图分组*/
+.icon-viewGroup {
+    background-image: url(../../images/icons/default/modeldata/viewGroup.png) !important;
+}
+
+/*模型*/
+.icon-model {
+    background-image: url(../../images/icons/default/modeldata/model.png) !important;
+}
+
+/*视图*/
+.icon-view {
+    background-image: url(../../images/icons/default/modeldata/view.png) !important;
+}
+
+.icon-picture {
+    background-image: url(../../images/icons/default/modeldata/picture.png) !important;
+}
+
+.icon-document {
+    background-image: url(../../images/icons/default/modeldata/document.png) !important;
+}
+
+.icon-video {
+    background-image: url(../../images/icons/default/modeldata/video.png) !important;
+}
+
+.icon-chart {
+    background-image: url(../../images/icons/default/modeldata/chart.gif) !important;
+}
+
+.icon-analysis {
+    background-image: url(../../images/icons/default/modeldata/analysis.png) !important;
+}
+
+/*数据管理 end*/
+
+/*系统管理 begin*/
+
+.icon-fileGroup {
+    background-image: url(../../images/icons/default/system/fileGroup.png) !important;
+}
+
+/*选中*/
+.icon-select {
+    background-image: url(../../images/icons/default/system/select.png) !important;
+}
+
+/*初始化*/
+.icon-init {
+    background-image: url(../../images/icons/default/system/config.png) !important;
+}
+
+/*分配*/
+.icon-assign {
+    background-image: url(../../images/icons/default/system/assignUser.png) !important;
+}
+
+/*部门*/
+.icon-dept {
+    background-image: url(../../images/icons/default/system/department.png) !important;
+}
+
+.icon-importUser {
+    background-image: url(../../images/icons/default/system/importUser.png) !important;
+}
+
+.icon-exportUser {
+    background-image: url(../../images/icons/default/system/exportUser.png) !important;
+}
+
+.icon-backup {
+    background-image: url(../../images/icons/default/system/backup.png) !important;
+}
+
+.icon-recover {
+    background-image: url(../../images/icons/default/system/recover.png) !important;
+}
+
+.icon-createJob {
+    background-image: url(../../images/icons/default/system/createJob.png) !important;
+}
+
+.icon-recoverJob {
+    background-image: url(../../images/icons/default/system/recoverJob.png) !important;
+}
+
+.icon-stopJob {
+    background-image: url(../../images/icons/default/system/stopJob.png) !important;
+}
+
+.icon-assignSchema {
+    background-image: url(../../images/icons/default/system/assignSchema.png) !important;
+}
+
+.icon-assignUser {
+    background-image: url(../../images/icons/default/system/assignUser.png) !important;
+}
+
+.icon-assignRight {
+    background-image: url(../../images/icons/default/system/assignRight.png) !important;
+}
+
+.icon-assignPortal {
+    background-image: url(../../images/icons/default/system/assignPortal.png) !important;
+}
+
+/*系统管理 end*/
+
+/*后台管理 begin*/
+.icon-dataClear {
+    background-image: url(../../images/icons/default/background/dataClear.png) !important;
+}
+
+.icon-previewForm {
+    background-image: url(../../images/icons/default/background/previewForm.png) !important;
+}
+
+.icon-previewGrid {
+    background-image: url(../../images/icons/default/background/previewGrid.png) !important;
+}
+
+.icon-toolGroup {
+    background-image: url(../../images/icons/default/background/toolGroup.png) !important;
+}
+
+.icon-bind {
+    background-image: url(../../images/icons/default/background/bind.png) !important;
+}
+
+.icon-insertGridBookMark {
+    background-image: url(../../images/icons/reference/text_list.png) !important;
+}
+
+.icon-insertBookMark {
+    background-image: url(../../images/icons/reference/tag.png) !important;
+}
+
+.icon-unit-category {
+    background-image: url(../../images/icons/default/background/units-group.png) !important;
+}
+
+.icon-unit-leaf {
+    background-image: url(../../images/icons/default/background/units.png) !important;
+}
+
+/*后台管理 end*/
+
+/*数据类型管理 begin  //这个地方需要重新找图来替换*/
+.icon-basicDataType {
+    background-image: url(../../images/icons/default/datatype/basicDataType.png) !important;
+}
+
+.icon-enumDataType {
+    background-image: url(../../images/icons/default/datatype/enumDataType.png) !important;
+}
+
+.icon-extendDataType {
+    background-image: url(../../images/icons/default/datatype/extendDataType.png) !important;
+}
+
+.icon-complexDataType {
+    background-image: url(../../images/icons/default/datatype/complexDataType.png) !important;
+}
+
+/*数据类型管理 end */
+
+/*其他 begin*/
+.icon-addTask {
+    background-image: url(../../images/icons/default/collab/addTask.png) !important;
+}
+
+/*任务导出*/
+.icon-taskExport {
+    background-image: url(../../images/icons/default/common/signIn.png) !important;
+}
+
+/*任务导入*/
+.icon-taskImport {
+    background-image: url(../../images/icons/default/common/signOff.png) !important;
+}
+
+/*试验导入*/
+.icon-testImport {
+    background-image: url(../../images/icons/default/common/archives_receive.png) !important;
+}
+
+/*试验导出*/
+.icon-testExport {
+    background-image: url(../../images/icons/default/common/archives_issue.png) !important;
+}
+
+/*驳回*/
+.icon-rejectToStart {
+    background-image: url(../../images/icons/default/common/rejectToStart.gif) !important;
+}
+
+/*集中导出*/
+.icon-baseInfoExport {
+    background-image: url(../../images/icons/default/common/baseDownload.png) !important;
+}
+
+/*集中导入*/
+.icon-baseInfoImport {
+    background-image: url(../../images/icons/default/common/baseUpload.png) !important;
+}
+
+/*其他 begin*/
+.x-status-failure {
+    background-image: url(../../images/icons/default/common/baseUpload.png) !important;
+}
+
+/*资源管理*/
+.icon-resources {
+    background-image: url(../../images/icons/default/resources/resources.png) !important;
+}
+
+.icon-resources-equiment {
+    background-image: url(../../images/icons/default/resources/yqsb.png) !important;
+}
+
+.icon-resources-jljd {
+    background-image: url(../../images/icons/default/resources/jljd.png) !important;
+}
+
+.icon-resources-test {
+    background-image: url(../../images/icons/default/resources/wuliao.png) !important;
+}
+
+.icon-resources-samples {
+    background-image: url(../../images/icons/default/resources/samples.png) !important;
+}
+
+.icon-resources-users {
+    background-image: url(../../images/icons/default/resources/users.png) !important;
+}
+
+.icon-resources-team {
+    background-image: url(../../images/icons/default/resources/team.png) !important;
+}
+
+.icon-resources-environment {
+    background-image: url(../../images/icons/default/resources/environment.png) !important;
+}
+
+.icon-resources-system {
+    background-image: url(../../images/icons/default/resources/system.png) !important;
+}
+
+.icon-resources-normal {
+    background-image: url(../../images/icons/default/resources/normal.png) !important;
+}
+
+.icon-resources-special {
+    background-image: url(../../images/icons/default/resources/special.png) !important;
+}
+
+.icon-resources-jlsb {
+    background-image: url(../../images/icons/default/resources/jlsb.png) !important;
+}
+
+.icon-startTestTask {
+    background-image: url(../../images/icons/default/resources/startTestTask.png) !important;
+}
+
+.icon-generateDoc {
+    background-image: url(../../images/icons/default/resources/generateDoc.png) !important;
+}
+
+.cateRootNode{
+    background-image: url( ../../images/knowledge/rootNode.png) !important;
+}
+
+.cateParentNode{
+    background-image: url( ../../images/knowledge/parentNode.png) !important;
+}
+.cateChildNode{
+    background-image: url( ../../images/knowledge/childNode.png) !important;
+}

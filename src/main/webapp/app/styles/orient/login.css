@@ -1,0 +1,60 @@
+p,div,ul,li,input{
+    margin:0px;
+    padding:0px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.main {
+    margin:0px;
+    padding:0px;
+    font-family:"";
+    background: #d4d4d4 url(../../images/login/bg.png) repeat-x;
+}
+
+/* TODO 这里需要替换登陆背景 */
+.main_pic {
+    background: url(../../images/login/login2.png) no-repeat;
+    width:1025px;
+    height:768px;
+    margin:0 auto;
+    padding:0 auto;
+}
+
+.text {
+    width: 280px;
+    height: 10px;
+    margin-left: 621px;
+    padding-top: 283px;
+}
+
+.footer {
+    padding: 0 auto;
+    font-size: 12px;
+    margin: 125px auto 0;
+    color: #ffffff;
+}
+
+.buttonArea {
+    width: 528px;
+    height: 56px;
+    margin-left: 622px;
+    margin-top: 167px;
+}
+
+.button1 {
+    float: left;
+}
+
+.button1 button {
+    width: 294px;
+    height: 32px;
+    border: 0px;
+    background-image: url(../../images/login/button.png);
+}
+
+img{border:0px;}
+
+

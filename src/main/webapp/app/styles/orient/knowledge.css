@@ -1,0 +1,133 @@
+/*  知识管理图标 */
+
+/* navigate-start */
+.naviFullText{
+	background-image: url( ../../images/knowledge/fullText.png) !important;
+}
+.naviFile{
+	background-image: url( ../../images/knowledge/file.png) !important;
+}
+.naviCategory{
+	background-image: url( ../../images/knowledge/category.png) !important;
+}
+.naviKnowledgeBase{
+	background-image: url( ../../images/knowledge/protector.png) !important;
+}
+.naviDirectoryTree{
+	background-image: url( ../../images/knowledge/creator.png) !important;
+}
+
+.toolbarrefresh{
+	background-image: url( ../../images/knowledge/refresh.gif) !important;
+}
+/* navigate-end */
+
+/* categoryProtector-start */
+.cateToolbarAdd{
+	background-image: url( ../../images/knowledge/add.png) !important;
+}
+.cateToolbarEdit{
+	background-image: url( ../../images/knowledge/edit.png) !important;
+}
+.cateToolbarDelete{
+	background-image: url( ../../images/knowledge/delete.gif) !important;
+}
+.cateFormSave{
+	background-image: url( ../../images/knowledge/save.png) !important;
+}
+.cateFormClose{
+	background-image: url( ../../images/knowledge/close.png) !important;
+}
+/* categoryProtector-end */
+
+/* categoryCreator-start */
+.cateRootNode{
+	background-image: url( ../../images/knowledge/rootNode.png) !important;
+}
+.cateParentNode{
+	background-image: url( ../../images/knowledge/parentNode.png) !important;
+}
+.cateChildNode{
+	background-image: url( ../../images/knowledge/childNode.png) !important;
+}
+.cateCreatorAdd{
+	background-image: url( ../../images/knowledge/creatorAdd.png) !important;
+}
+.cateCreatorDelete{
+	background-image: url( ../../images/knowledge/creatorDelete.png) !important;
+}
+/* categoryCreator-end */
+
+/* file-start */
+.fileToolbarAdd{
+	background-image: url( ../../images/knowledge/file_add.png) !important;
+}
+.fileToolbarEdit{
+	background-image: url( ../../images/knowledge/file_edit.png) !important;
+}
+.fileToolbarDelete{
+	background-image: url( ../../images/knowledge/file_delete.png) !important;
+}
+.fileToolbarDown{
+	background-image: url( ../../images/knowledge/file_down.png) !important;
+}
+.upload-icon{
+	background-image: url( ../../images/knowledge/image_add.png) !important;
+}
+/* file-end */
+
+/* diction-start */
+.dicToolbarAdd{
+	background-image: url( ../../images/knowledge/dic_add.png) !important;
+}
+.dicToolbarEdit{
+	background-image: url( ../../images/knowledge/dic_edit.png) !important;
+}
+.dicToolbarDelete{
+	background-image: url( ../../images/knowledge/dic_delete.png) !important;
+}
+.dicToolbarSelect{
+	background-image: url( ../../images/knowledge/dic_select.png) !important;
+}
+.dicToolbarQuery{
+	background-image: url( ../../images/knowledge/dic_query.gif) !important;
+}
+.dicSortASC{
+	background-image: url( ../../images/knowledge/sort_asc.png) !important;
+}
+.dicSortDESC{
+	background-image: url( ../../images/knowledge/sort_desc.png) !important;
+}
+.fontBlank{
+	color : #000 !important;	
+}
+.fontRed{
+	color : #F00 !important;	
+}
+/* diction-end */
+
+/* fileCount-start */
+.naviFileCount{
+	background-image: url( ../../images/knowledge/count.png) !important;
+}
+.fileCount{
+	background-image: url( ../../images/knowledge/fileCount.png) !important;
+}
+.dictionCount{
+	background-image: url( ../../images/knowledge/i_text.png) !important;
+}
+.countButton{
+	background-image: url( ../../images/knowledge/countButton.png) !important;
+}
+
+/* fileCount-end */
+
+/* navigate-start */
+.naviFullSearch{
+	background-image: url( ../../images/knowledge/fileSearch.png) !important;
+}
+.redo{
+	background-image: url( ../../images/knowledge/redo.png) !important;
+}
+/* navigate-end */
+

@@ -1,0 +1,32 @@
+{
+  "text": ".",
+  "children": [
+    {
+      "id": 5,
+      "text": "Freemarker模板管理",
+      "thumb": "Freemarker模板管理.png",
+      "url": "OrientTdm.FormMgr.FreeMarker.FreeMarkerList",
+      "type": "Application",
+      "iconCls": "",
+      "leaf": true
+    },
+    {
+      "id": 6,
+      "text": "模型表单管理",
+      "thumb": "模型表单管理.png",
+      "url": "OrientTdm.FormMgr.FreeMarker.ExtendFreeMarkerList",
+      "type": "Application",
+      "iconCls": "",
+      "leaf": true
+    },
+    {
+      "id": 7,
+      "text": "模型表格管理",
+      "thumb": "模型表格管理.png",
+      "url": "OrientTdm.FormMgr.ModelGrid.ModelGridList",
+      "type": "Application",
+      "iconCls": "",
+      "leaf": true
+    }
+  ]
+}

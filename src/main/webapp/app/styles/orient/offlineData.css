@@ -1,0 +1,19 @@
+p,div,ul,li,input{
+    margin:0px;
+    padding:0px;
+}
+
+.main {
+    margin:0px;
+    padding:0px;
+    font-family:"";
+    background: #d4d4d4 url(../../images/introduction/offlineDatabg.png) repeat-x;
+}
+
+.main_pic {
+    background: url(../../images/introduction/offlineData.png) no-repeat;
+    width:1025px;
+    height:768px;
+    margin:0 auto;
+    padding:0 auto;
+}
